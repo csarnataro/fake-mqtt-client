@@ -1,0 +1,14 @@
+{
+    "name": "my-mqtt-project",
+    "version": "1.0.0",
+    "description": "MQTT project to send temperature data",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Your Name", 
+    "license": "ISC",
+    "dependencies": {
+      "mqtt": "^4.3.7"
+    }
+  }
